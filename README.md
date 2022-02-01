@@ -4,6 +4,7 @@
 - Written in VB.Net by Robert Daugherty - Aka xArtist Dameinx
 - Uses MySQL Data to populate datagrid's for combining data into one source for filtering and viewing
 - Can be used for certain analytics as well as verifying AD's
+- Join us in our Discord [HERE](https://discord.gg/HAG5Qe79wK)
 
 Disclaimer: Please note all data is pulled via the XRP Ledger and we take no responsibility for incorrect data or issues you may experience.
 
